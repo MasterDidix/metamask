@@ -1,7 +1,3 @@
-# metamask
-Skrip untuk membuat token
-
-
 pragma solidity ^0.4.26;
 
 contract Token {
@@ -144,23 +140,3 @@ contract HashnodeTestCoin is StandardToken { // CHANGE THIS. Update the contract
         return true;
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
